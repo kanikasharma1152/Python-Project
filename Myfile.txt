@@ -1,9 +1,0 @@
-hello my name is v
-I am good boy
-my name is jungkook
-
-# os ko shut down krne k liye
-# import os
-# os.system("shutdown /s /t 0")
-
-C:\Users\dell\PycharmProjects\PythonProject6\Myfile.txt
